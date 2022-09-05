@@ -1,6 +1,6 @@
 Sub graphing()
 '
-' graphing Macro
+    ' apply template, reselect revelent data and resize graph
 '
 
 '
