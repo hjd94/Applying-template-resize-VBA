@@ -1,6 +1,6 @@
 Sub graphing()
 '
-    ' apply template, reselect revelent data and resize graph
+    ' This code select chart and applies a template. It then selects revelent the new data and resizes the graph
 '
 
 '
