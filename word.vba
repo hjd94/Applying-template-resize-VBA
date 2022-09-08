@@ -1,6 +1,6 @@
 Sub apply_template()
 '
-    ' This code select chart and applies a template. It then selects revelent the new data and resizes the graph
+    ' This code select chart and applies a template and resizes the graph
 '
 
   Dim objShape As InlineShape
