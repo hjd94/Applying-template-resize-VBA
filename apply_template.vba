@@ -4,9 +4,9 @@ Sub graphing()
 '
 
 '
-    a = Application.Worksheets.Count
+    count = Application.Worksheets.Count
 
-    For i = 1 To a
+    For i = 1 To count
     Worksheets(i).Activate
     ActiveSheet.Shapes.AddChart2(201, xlColumnClustered).Select
     ActiveChart.ApplyChartTemplate ( _
